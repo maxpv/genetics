@@ -7,4 +7,4 @@ Done in collaboration with [Samaed]
 
 
 
-[Samaed]: http://dl.babol.me/pongme/Release-PongMe.zip
+[Samaed]: https://github.com/Samaed
